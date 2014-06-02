@@ -1,4 +1,4 @@
-MecaniCraft
+MecanyCraft
 ===========
 
-MecaniCraft add a mysterious abandoned robotic world in Minecraft with a banch of new technologic stuff !
+MecanyCraft add a mysterious abandoned robotic world in Minecraft with a banch of new technologic stuff !
